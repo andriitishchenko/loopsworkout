@@ -42,28 +42,28 @@
       "plan": [
         {
           "group": 1,
-          "exercises": 1,
+          "exercise": 1,
           "sets": "8-10",
           "repeats": 5,
           "rest": 60
         },
         {
           "group": 1,
-          "exercises": 1,
+          "exercise": 1,
           "sets": "8-10",
           "repeats": 2,
           "rest": 0
         },
         {
           "group": 1,
-          "exercises": 2,
+          "exercise": 2,
           "sets": "15-20",
           "repeats": 3,
           "rest": 0
         },
         {
           "group": 2,
-          "exercises": 1,
+          "exercise": 1,
           "sets": "8-10",
           "repeats": 3,
           "rest": 0
