@@ -1,26 +1,74 @@
 {
-	"exertype": [{
-			"id": 1,
-			"name": "hands"
-		},
-		{
-			"id": 2,
-			"name": "legs"
-		}
-	],
-	"exercises": [{
-		"id": 1,
-		"type": [1],
-		"title": "Bicep Curl",
-		"demo": [
-			"base-hand1.png", "base-hand1.png", "base-hand1.png"
-		]
-	}, {
-		"id": 2,
-		"type": [1],
-		"title": "Tricep extension",
-		"demo": [
-			"base-hand1.png", "base-hand1.png", "base-hand1.png"
-		]
-	}]
+  "exertype": [
+    {
+      "id": 1,
+      "name": "hands"
+    },
+    {
+      "id": 2,
+      "name": "legs"
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "type": [
+        1
+      ],
+      "title": "Bicep Curl",
+      "demo": [
+        "base-hand1.png",
+        "base-hand1.png",
+        "base-hand1.png"
+      ]
+    },
+    {
+      "id": 2,
+      "type": [
+        1
+      ],
+      "title": "Tricep extension",
+      "demo": [
+        "base-hand1.png",
+        "base-hand1.png",
+        "base-hand1.png"
+      ]
+    }
+  ],
+  "workouts": [
+    {
+      "title": "Noob",
+      "difficult": 1,
+      "plan": [
+        {
+          "group": 1,
+          "exercises": 1,
+          "sets": "8-10",
+          "repeats": 5,
+          "rest": 60
+        },
+        {
+          "group": 1,
+          "exercises": 1,
+          "sets": "8-10",
+          "repeats": 2,
+          "rest": 0
+        },
+        {
+          "group": 1,
+          "exercises": 2,
+          "sets": "15-20",
+          "repeats": 3,
+          "rest": 0
+        },
+        {
+          "group": 2,
+          "exercises": 1,
+          "sets": "8-10",
+          "repeats": 3,
+          "rest": 0
+        }
+      ]
+    }
+  ]
 }
