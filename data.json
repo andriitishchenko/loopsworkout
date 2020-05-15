@@ -1,0 +1,14 @@
+{
+	"exertype":{
+		{"id":1, name:"hands"},
+		{"id":2, name:"legs"}
+	},
+	"exercises"{
+		{"id":1,"type":[1],"title":"Bicep Curl", demo:[
+			"base-hand1.png","base-hand1.png","base-hand1.png"
+		]},
+		{"id":2,"type":[1],"title":"Tricep extension", demo:[
+			"base-hand1.png","base-hand1.png","base-hand1.png"
+		]}
+	}
+}
