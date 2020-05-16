@@ -18,9 +18,9 @@
       ],
       "title": "Bicep Curl",
       "demo": [
-        "base-hand1.jped",
-        "base-hand2.jped",
-        "base-hand3.jped"
+        "base-hand1.jpeg",
+        "base-hand2.jpeg",
+        "base-hand3.jpeg"
       ]
     },
     {
@@ -30,8 +30,8 @@
       ],
       "title": "Tricep extension",
       "demo": [
-        "base-hand1.jped",
-        "base-hand4.jped",
+        "base-hand1.jpeg",
+        "base-hand4.jpeg",
         "base-hand5.png"
       ]
     }
