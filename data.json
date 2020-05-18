@@ -1,5 +1,5 @@
 {
-  "version":0,
+  "version": 1,
   "exertype": [
     {
       "id": 1,
@@ -8,11 +8,23 @@
     {
       "id": 2,
       "name": "legs"
+    },
+    {
+      "id": 3,
+      "name": "belly"
+    },
+    {
+      "id": 4,
+      "name": "back"
+    },
+    {
+      "id": 5,
+      "name": "combo"
     }
   ],
   "exercises": [
     {
-      "id": 1,
+      "id": 0,
       "type": [
         1
       ],
@@ -24,7 +36,7 @@
       ]
     },
     {
-      "id": 2,
+      "id": 1,
       "type": [
         1
       ],
@@ -34,6 +46,503 @@
         "base-hand4.jpeg",
         "base-hand5.png"
       ]
+    },
+    {
+      "id": 2,
+      "type": [
+        1
+      ],
+      "title": "Bicep Curl",
+      "demo": []
+    },
+    {
+      "id": 3,
+      "type": [
+        1
+      ],
+      "title": "Tricep extension",
+      "demo": []
+    },
+    {
+      "id": 4,
+      "type": [
+        1
+      ],
+      "title": "Push up",
+      "demo": []
+    },
+    {
+      "id": 5,
+      "type": [
+        1
+      ],
+      "title": "Tricep press",
+      "demo": []
+    },
+    {
+      "id": 6,
+      "type": [
+        1
+      ],
+      "title": "Mountain Climber Pushup",
+      "demo": []
+    },
+    {
+      "id": 7,
+      "type": [
+        1
+      ],
+      "title": "TRX Twist",
+      "demo": []
+    },
+    {
+      "id": 8,
+      "type": [
+        1
+      ],
+      "title": "TRX Row",
+      "demo": []
+    },
+    {
+      "id": 9,
+      "type": [
+        1
+      ],
+      "title": "High row",
+      "demo": []
+    },
+    {
+      "id": 10,
+      "type": [
+        1
+      ],
+      "title": "Reverse Fly",
+      "demo": []
+    },
+    {
+      "id": 11,
+      "type": [
+        1
+      ],
+      "title": "Table Row",
+      "demo": []
+    },
+    {
+      "id": 12,
+      "type": [
+        1
+      ],
+      "title": "Dips",
+      "demo": []
+    },
+    {
+      "id": 13,
+      "type": [
+        1
+      ],
+      "title": "Pullover",
+      "demo": []
+    },
+    {
+      "id": 14,
+      "type": [
+        1
+      ],
+      "title": "Pull up",
+      "demo": []
+    },
+    {
+      "id": 15,
+      "type": [
+        1
+      ],
+      "title": "Good Morning",
+      "demo": []
+    },
+    {
+      "id": 16,
+      "type": [
+        1
+      ],
+      "title": "Roll up",
+      "demo": []
+    },
+    {
+      "id": 17,
+      "type": [
+        2
+      ],
+      "title": "Squat",
+      "demo": []
+    },
+    {
+      "id": 18,
+      "type": [
+        2
+      ],
+      "title": "Plyo Squat",
+      "demo": []
+    },
+    {
+      "id": 19,
+      "type": [
+        2
+      ],
+      "title": "Pistol squat",
+      "demo": []
+    },
+    {
+      "id": 20,
+      "type": [
+        2
+      ],
+      "title": "Suspended Lunge",
+      "demo": []
+    },
+    {
+      "id": 21,
+      "type": [
+        2
+      ],
+      "title": "Alternative Lunges",
+      "demo": []
+    },
+    {
+      "id": 22,
+      "type": [
+        2
+      ],
+      "title": "Plyo lunge",
+      "demo": []
+    },
+    {
+      "id": 23,
+      "type": [
+        2
+      ],
+      "title": "TRX Forg",
+      "demo": []
+    },
+    {
+      "id": 24,
+      "type": [
+        2
+      ],
+      "title": "Cross Floating Lunge",
+      "demo": []
+    },
+    {
+      "id": 25,
+      "type": [
+        2
+      ],
+      "title": "Wide Jump",
+      "demo": []
+    },
+    {
+      "id": 26,
+      "type": [
+        2
+      ],
+      "title": "Floating Lunge",
+      "demo": []
+    },
+    {
+      "id": 27,
+      "type": [
+        2
+      ],
+      "title": "Floating Lunge Jump",
+      "demo": []
+    },
+    {
+      "id": 28,
+      "type": [
+        2
+      ],
+      "title": "Sprinter Start",
+      "demo": []
+    },
+    {
+      "id": 29,
+      "type": [
+        2
+      ],
+      "title": "Side lunge",
+      "demo": []
+    },
+    {
+      "id": 30,
+      "type": [
+        2
+      ],
+      "title": "Suspended Side Lunges",
+      "demo": []
+    },
+    {
+      "id": 31,
+      "type": [
+        2
+      ],
+      "title": "Deadlift",
+      "demo": []
+    },
+    {
+      "id": 32,
+      "type": [
+        2
+      ],
+      "title": "Bridge",
+      "demo": []
+    },
+    {
+      "id": 33,
+      "type": [
+        2
+      ],
+      "title": "Hip Raise",
+      "demo": []
+    },
+    {
+      "id": 34,
+      "type": [
+        2
+      ],
+      "title": "Adductors",
+      "demo": []
+    },
+    {
+      "id": 35,
+      "type": [
+        2
+      ],
+      "title": "Suspended aductors",
+      "demo": []
+    },
+    {
+      "id": 36,
+      "type": [
+        2
+      ],
+      "title": "Reverse Suspended abductors",
+      "demo": []
+    },
+    {
+      "id": 37,
+      "type": [
+        3,
+        4
+      ],
+      "title": "Plank basic",
+      "demo": []
+    },
+    {
+      "id": 38,
+      "type": [
+        3,
+        4
+      ],
+      "title": "Plank Up & Down",
+      "demo": []
+    },
+    {
+      "id": 39,
+      "type": [
+        3,
+        4
+      ],
+      "title": "Ripper",
+      "demo": []
+    },
+    {
+      "id": 40,
+      "type": [
+        3,
+        4
+      ],
+      "title": "Crisscross climber",
+      "demo": []
+    },
+    {
+      "id": 41,
+      "type": [
+        3,
+        4
+      ],
+      "title": "Tuck knee",
+      "demo": []
+    },
+    {
+      "id": 42,
+      "type": [
+        3,
+        4
+      ],
+      "title": "Pike",
+      "demo": []
+    },
+    {
+      "id": 43,
+      "type": [
+        3,
+        4
+      ],
+      "title": "Forearm Plank",
+      "demo": []
+    },
+    {
+      "id": 44,
+      "type": [
+        3,
+        4
+      ],
+      "title": "Plank saw",
+      "demo": []
+    },
+    {
+      "id": 45,
+      "type": [
+        3,
+        4
+      ],
+      "title": "Forearm Plank Climber",
+      "demo": []
+    },
+    {
+      "id": 46,
+      "type": [
+        3,
+        4
+      ],
+      "title": "Side Plank",
+      "demo": []
+    },
+    {
+      "id": 47,
+      "type": [
+        3,
+        4
+      ],
+      "title": "Forearm Side Plank",
+      "demo": []
+    },
+    {
+      "id": 48,
+      "type": [
+        3,
+        4
+      ],
+      "title": "Side Plank Reach",
+      "demo": []
+    },
+    {
+      "id": 49,
+      "type": [
+        3,
+        4
+      ],
+      "title": "Side Plank Thrust",
+      "demo": []
+    },
+    {
+      "id": 50,
+      "type": [
+        3,
+        4
+      ],
+      "title": "Side Plank Crunch",
+      "demo": []
+    },
+    {
+      "id": 51,
+      "type": [
+        3,
+        4
+      ],
+      "title": "Leg Curl",
+      "demo": []
+    },
+    {
+      "id": 52,
+      "type": [
+        3,
+        4
+      ],
+      "title": "Bicycle",
+      "demo": []
+    },
+    {
+      "id": 53,
+      "type": [
+        3,
+        4
+      ],
+      "title": "Russian Twist",
+      "demo": []
+    },
+    {
+      "id": 54,
+      "type": [
+        5
+      ],
+      "title": "Burpee",
+      "demo": []
+    },
+    {
+      "id": 55,
+      "type": [
+        5
+      ],
+      "title": "Touch and Reach",
+      "demo": []
+    },
+    {
+      "id": 56,
+      "type": [
+        5
+      ],
+      "title": "Mountain Climber",
+      "demo": []
+    },
+    {
+      "id": 57,
+      "type": [
+        5
+      ],
+      "title": "Hamstring Runner",
+      "demo": []
+    },
+    {
+      "id": 58,
+      "type": [
+        5
+      ],
+      "title": "Reverse Plank Leg Raise",
+      "demo": []
+    },
+    {
+      "id": 59,
+      "type": [
+        5
+      ],
+      "title": "Push up + Tuck Knee",
+      "demo": []
+    },
+    {
+      "id": 60,
+      "type": [
+        5
+      ],
+      "title": "Push up + Peak",
+      "demo": []
+    },
+    {
+      "id": 61,
+      "type": [
+        5
+      ],
+      "title": "Walk Plank",
+      "demo": []
     }
   ],
   "workouts": [
@@ -50,21 +559,21 @@
         },
         {
           "group": 1,
-          "exercise": 1,
+          "exercise": 2,
           "sets": "8-10",
           "repeats": 2,
           "rest": 0
         },
         {
           "group": 1,
-          "exercise": 2,
+          "exercise": 3,
           "sets": "15-20",
           "repeats": 3,
           "rest": 0
         },
         {
           "group": 2,
-          "exercise": 1,
+          "exercise": 4,
           "sets": "8-10",
           "repeats": 3,
           "rest": 0
