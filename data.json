@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "exertype": [
     {
       "id": 1,
@@ -964,7 +964,7 @@
   "workouts": [
     {
       "id": "d62012e2-9957-11ea-bb37-0242ac130002",
-      "title": "Beginner",
+      "title": "Full Body Workout 2/7",
       "difficult": 0,
       "rest": 15,
       "time": 30,
@@ -1024,7 +1024,7 @@
     },
     {
       "id": "d62012e2-9957-11ea-bb37-0242ac130003",
-      "title": "Intermediate",
+      "title": "Full Body Workout 3/7",
       "difficult": 1,
       "rest": 15,
       "time": 30,
@@ -1094,7 +1094,7 @@
     },
     {
       "id": "d62012e2-9957-11ea-bb37-0242ac130004",
-      "title": "Advanced",
+      "title": "Full Body Workout 3/7",
       "difficult": 2,
       "rest": 15,
       "time": 45,
